@@ -1,2 +1,4 @@
 #Ignore env
 3.11_env
+#Ignore idea file
+.idea
